@@ -9,3 +9,6 @@
 （無料のMathWorksアカウントが必要です．有料のMATLABライセンスは不要です）
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=konakalab/sportsDataBook_MATLAB)
+
+- 無料のMATLAB Online(basic)については以下のリンク先をご参照ください．
+  https://jp.mathworks.com/products/matlab-online/matlab-online-versions.html
