@@ -7,3 +7,4 @@
 # コード一覧
 以下のリンクをクリックするとMATLAB Onlineにファイルをクローンして開くことができます
 （無料のMathWorksアカウントが必要です．有料のMATLABライセンスは不要です）
+matlab.mathworks.com/open/github/v1?repo=<authorname>/<reponame>&file=<filename>&line=<linenumber>
