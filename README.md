@@ -8,3 +8,4 @@
 以下のリンクをクリックするとMATLAB Onlineにファイルをクローンして開くことができます
 （無料のMathWorksアカウントが必要です．有料のMATLABライセンスは不要です）
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=konakalab/sportsDataBook_MATLAB)
