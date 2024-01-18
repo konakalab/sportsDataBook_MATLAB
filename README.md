@@ -3,7 +3,7 @@
 - MATLAB R2021aで作成しています．
 - MATLABライブスクリプト(.mlx形式)です．GitHub上ではコードが表示されませんので，以下のいずれかをお試しください．
   - ダウンロード後にローカルのMATLABでmlxファイルを開く
-  - リポジトリをMATLAB Onlineにクローンして開く(後述)
+  - リポジトリをMATLAB Onlineで開く(後述)
 - 書籍の図版と見た目が異なる場合があります(書籍は組版時にレイアウトを調整しています)
 - MATLAB Onlineの利用にはMathWorksアカウントでのログインが必要です。
 # MATLAB Onlineへのリンク
